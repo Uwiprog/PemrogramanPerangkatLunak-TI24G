@@ -1,5 +1,7 @@
 # flutter_application_2
 
+<img width="1858" height="982" alt="screencapture-localhost-59270-2026-10-08-20_40_58" src="https://github.com/user-attachments/assets/653abec1-6606-43ef-8dad-d999e71ec00b" />
+
 A new Flutter project.
 🚀 Tugas Flutter Sesi 2 - Product & Profile App
 Aplikasi mobile/web berbasis Flutter sederhana yang dikembangkan untuk memenuhi tugas praktikum pemrograman perangkat bergerak. Aplikasi ini menggabungkan komponen profil mahasiswa, banner promo dinamis, serta kartu produk interaktif dengan fitur navigasi gambar modern.
