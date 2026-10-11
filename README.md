@@ -1,6 +1,11 @@
 # flutter_application_3
 
 A new Flutter project.
+📚 NusaBookstore - State Management with Provider
+Aplikasi mobile/web toko buku sederhana (NusaBookstore) yang dikembangkan menggunakan framework Flutter. Project ini dibuat untuk mempelajari dan mengimplementasikan konsep State Management menggunakan package Provider, mencakup pengelolaan katalog buku, keranjang belanja dinamis, hingga fitur pengalihan tema aplikasi (Light & Dark Mode).
+
+📷 Dokumentasi
+
 
 ## Getting Started
 
