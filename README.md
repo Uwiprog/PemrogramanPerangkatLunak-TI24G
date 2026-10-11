@@ -7,6 +7,10 @@ Aplikasi mobile/web toko buku sederhana (NusaBookstore) yang dikembangkan menggu
 📷 Dokumentasi
 
 
+https://github.com/user-attachments/assets/cb2c7e1d-cfb1-426d-b970-bddbf9abbf28
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
