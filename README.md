@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+https://github.com/user-attachments/assets/7a8153bb-a7d4-4501-9509-66841da8a04f
+
 Tugas kali ini untuk membuat aplikasi nusatravel yang memiliki splash screen di saat awal membuka aplikasi, home screen yang memiliki 4 destinasi berbeda, fitur booking yang terdiri dari nama lengkap, jumlah orang yg mau mengikuti travel serta tanggal keberangkatan, apa bila tidak jadi untuk melanjutkan ketika di klik tombol kembali maka akan muncul pop up untuk memastikan apakah anda yakin tidak jadi melanjutkan atau tidak.
 
 ## Getting Started
